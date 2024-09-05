@@ -1,5 +1,3 @@
-Aqui está a versão em inglês do README, ajustada conforme solicitado:
-
 ---
 
 # To-Do List App
